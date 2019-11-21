@@ -22,11 +22,11 @@ Now it is time for the small chages:
 
 1. `AndroidManifest.xml` 
 
-   The *package* attribute of the <manifest> tag 
+   The *package* attribute of the \<manifest\> tag 
 
-   The *name* attribute of <application> (Note: Leave the .Application part, only change the package)
+   The *name* attribute of \<application\> (Note: Leave the .Application part, only change the package)
 
-   The *name* attribute of <activity> (Note: Leave the .MainActivity part, only change the package)
+   The *name* attribute of \<activity\> (Note: Leave the .MainActivity part, only change the package)
 
 2. `app/build.gradle` 
 
@@ -34,7 +34,8 @@ Now it is time for the small chages:
    android {
    ...
      defaultConfig {
-   		applicationId '<your.package.name>'
+       applicationId '<your.package.name>'
+       ...
      }
    }
    ```
