@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Template</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+
+    <string name="validation_email">Invalid Email Address</string>
+    <string name="validation_password_match">Passwords must match</string>
+
+    <string name="textinput_hint_email">Email</string>
+    <string name="textinput_hint_username">Username</string>
+    <string name="textinput_hint_password">Password</string>
+    <string name="textinput_hint_password_confirm">Confirm Password</string>
+    <string name="textinput_hint_first_name">First Name</string>
+    <string name="textinput_hint_last_name">Last Name</string>
+
+    <string name="textview_or">OR</string>
+    <string name="textview_connect_with">Connect with</string>
+
+    <string name="btn_login_facebook">Facebook</string>
+    <string name="btn_login_google">Google</string>
+
+    <string name="frag_login_textview_login">Login</string>
+    <string name="frag_login_btn_login">LOGIN</string>
+    <string name="frag_login_btn_create_an_account">CREATE AN ACCOUNT</string>
+    <string name="frag_login_textview_forgot_password">Forgot your password?</string>
+
+    <string name="frag_login_textview_dont_have_account">Don\'t have a account?</string>
+
+    <string name="frag_reset_password_textview_title">Van Vuurent <b>Braai Cafe</b></string>
+    <string name="frag_reset_password_btn_reset_password">Reset Password</string>
+    <string name="frag_reset_password_btn_back_to_login">Back to login</string>
+    <string name="frag_reset_password_btn_forgot_password">Forgot password</string>
+    <string name="frag_reset_password_textview_forgot_password">Forgot password</string>
+
+    <string name="frag_register_btn_register">Create</string>
+    <string name="frag_register_textview_create_account">Create Account</string>
+    <string name="frag_register_textview_sign_in"><u>Sign in</u></string>
+    <string name="frag_register_textview_have_accountt">Already have a account?</string>
+
+    <string name="frag_home_textview_take_away">TAKE AWAY</string>
+    <string name="frag_home_textview_meals">MEAL PREP</string>
+
+    <string name="frag_profile_textview_profile">Profile</string>
+    <string name="frag_profile_btn_save">Save</string>
+</resources>
